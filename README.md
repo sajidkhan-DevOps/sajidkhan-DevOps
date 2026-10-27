@@ -28,6 +28,34 @@ My hands-on work spans Terraform-managed infrastructure, Docker-based deployment
 - 🔐 **Security & Operations:** SSH hardening, RBAC, secrets handling, Nginx, SSL/TLS
 - 📍 **Location:** Lucknow, Uttar Pradesh, India
 
+
+## 🤝 Let's Connect
+
+I'm interested in DevSecOps and cloud engineering opportunities, collaboration on real-world projects, and helping businesses improve how they build and deploy software.
+
+<p align="center">
+  <a href="https://sajidkhan-devops.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/sajidkhan-DevOps/sajidkhan-DevOps/blob/main/assets/Sajid_Khan_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View%20PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+  </a>
+  <a href="https://github.com/sajidkhan-DevOps">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:sajidkhan299720@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Agency:</b> VEXOR — Digital Solutions & Cloud Engineering
+</p>
+
+<p align="center">
+  <sub>Let's build something meaningful together.</sub>
+</p>
+
 ## 🏢 VEXOR — Digital Solutions & Cloud Engineering
 
 <div align="center">
