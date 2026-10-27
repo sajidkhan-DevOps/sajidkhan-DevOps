@@ -1,16 +1,16 @@
 <div align="center">
   <img src="assets/vexor-logo.svg" alt="VEXOR" width="340" />
-  <br />
   <h1>Hi, I'm Sajid Khan 👋</h1>
   <h3>DevSecOps Engineer · Cloud Automation · Full-Stack Deployment</h3>
-  <p><b>Building, securing, and deploying real-world applications.</b></p>
+  <p><strong>Building, securing, and deploying real-world applications.</strong></p>
   <p>I turn infrastructure into code, automate delivery pipelines, and help applications move from development to production.</p>
   <p>
     <a href="https://github.com/sajidkhan-DevOps"><img src="https://img.shields.io/badge/GitHub-sajidkhan--DevOps-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-    <a href="mailto:sajidkhan299720@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <img src="https://img.shields.io/badge/Focus-DevSecOps-00C7B7?style=for-the-badge" alt="DevSecOps" />
+    <a href="https://sajidkhan-devops.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+    <a href="assets/Sajid_Khan_Resume.pdf"><img src="https://img.shields.io/badge/Resume-View%20PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" /></a>
+    <a href="mailto:sajidkhan299720@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=E34F26&center=true&vCenter=true&width=700&lines=Azure+%7C+Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+%7C+Cloud+Infrastructure;From+Code+to+Production+%F0%9F%9A%80" alt="Animated typing: Azure, Terraform, Docker, Kubernetes, CI/CD" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=800&color=E10600&center=true&vCenter=true&width=700&lines=Azure+%7C+Terraform+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+%7C+Cloud+Infrastructure;From+Code+to+Production+%F0%9F%9A%80" alt="Animated DevSecOps and cloud engineering headline" />
 </div>
 
 ---
@@ -31,8 +31,8 @@ My hands-on work spans Terraform-managed infrastructure, Docker-based deployment
 ## 🏢 VEXOR — Digital Solutions & Cloud Engineering
 
 <div align="center">
-  <img src="assets/vexor-logo.svg" alt="VEXOR agency logo" width="280" />
-  <p><b>Modern technology. Thoughtful engineering. Reliable delivery.</b></p>
+  <img src="assets/vexor-logo.svg" alt="VEXOR agency logo" width="300" />
+  <p><strong>Modern technology. Thoughtful engineering. Reliable delivery.</strong></p>
 </div>
 
 VEXOR is my agency brand for helping businesses build digital products and get them deployed reliably. The focus is on practical solutions that connect product development, cloud infrastructure, and ongoing delivery.
@@ -45,7 +45,7 @@ VEXOR is my agency brand for helping businesses build digital products and get t
 | **Containerization** | Packaging applications and running container-based workloads | Docker, Docker Compose, Kubernetes, AKS, ACR |
 | **Server Setup & Deployment** | Linux server configuration, reverse proxy, HTTPS, and release support | Ubuntu, Nginx, SSH, SSL/TLS |
 
-> Have a project or deployment challenge? [Contact me by email](mailto:sajidkhan299720@gmail.com). Add VEXOR's official website and social links here once they are public.
+> Have a project or deployment challenge? [Contact me by email](mailto:sajidkhan299720@gmail.com). VEXOR's official website and social links can be added here when available.
 
 ---
 
@@ -59,34 +59,30 @@ HungryKart is a food delivery platform with a FastAPI backend, a Next.js admin p
 
 ```mermaid
 flowchart TB
-    subgraph Apps[Client Applications]
-      C[Customer App - Flutter]
-      R[Restaurant App - Flutter]
-      D[Delivery Agent App - Flutter]
-      A[Admin Panel - Next.js]
-    end
-    subgraph Delivery[Delivery and Application Layer]
-      N[Nginx Reverse Proxy and TLS]
-      API[FastAPI Backend]
-    end
-    subgraph Data[Data Layer]
-      PG[(PostgreSQL)]
-      REDIS[(Redis)]
-    end
-    subgraph Pipeline[CI/CD]
-      GH[GitHub Actions]
-      BUILD[Build and Containerize]
-      ACR[Azure Container Registry]
-      AKS[Azure Kubernetes Service]
-      GH --> BUILD --> ACR --> AKS
-    end
-    C --> N
-    R --> N
-    D --> N
-    A --> N
-    N --> API
-    API --> PG
-    API --> REDIS
+  subgraph Apps[Client Applications]
+    C[Customer App - Flutter]
+    R[Restaurant App - Flutter]
+    D[Delivery Agent App - Flutter]
+    A[Admin Panel - Next.js]
+  end
+  subgraph Delivery[Application Layer]
+    N[Nginx Reverse Proxy and TLS]
+    API[FastAPI Backend]
+  end
+  subgraph Data[Data Layer]
+    PG[(PostgreSQL)]
+    REDIS[(Redis)]
+  end
+  subgraph Pipeline[CI/CD]
+    GH[GitHub Actions] --> BUILD[Build and Containerize] --> ACR[Azure Container Registry] --> AKS[Azure Kubernetes Service]
+  end
+  C --> N
+  R --> N
+  D --> N
+  A --> N
+  N --> API
+  API --> PG
+  API --> REDIS
 ```
 
 ### Work and responsibilities
@@ -119,13 +115,31 @@ flowchart TB
 - Hands-on practice with Trivy, Checkov, and TFLint for infrastructure code and configuration checks.
 - Working toward integrating scanning and validation into CI/CD workflows.
 
-> Replace the project titles above with links to the corresponding public repositories when those repository URLs are confirmed.
+> Add links to the corresponding public project repositories when their URLs are confirmed.
 
 ## 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,git,github,linux,bash,powershell,nginx,python,react,nextjs,postgres,redis" alt="Technology stack icons" />
-</p>
+<div align="center">
+  <p><strong>Cloud & Infrastructure</strong></p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Azure_CLI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure CLI" />
+  <p><strong>Containers & CI/CD</strong></p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" alt="Azure DevOps" />
+  <p><strong>Systems, Security & Application Stack</strong></p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white" alt="Trivy" />
+  <img src="https://img.shields.io/badge/Checkov-6C4AB6?style=for-the-badge" alt="Checkov" />
+  <img src="https://img.shields.io/badge/TFLint-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="TFLint" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+</div>
 
 | Area | Tools and technologies |
 |---|---|
@@ -156,17 +170,21 @@ Integral University, Lucknow, Uttar Pradesh, India
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sajidkhan-DevOps&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats for sajidkhan-DevOps" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidkhan-DevOps&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sajidkhan-DevOps&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E10600&icon_color=E10600&text_color=E6EDF3" height="165" alt="GitHub profile statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajidkhan-DevOps&layout=compact&hide_border=true&bg_color=0D1117&title_color=E10600&text_color=E6EDF3" height="165" alt="Most used programming languages" />
 </div>
+
+*GitHub statistics are provided by a third-party service and may occasionally be unavailable.*
 
 ## 🤝 Let's Connect
 
 I'm interested in DevSecOps and cloud engineering opportunities, collaboration on real-world projects, and helping businesses improve how they build and deploy software.
 
+- **Portfolio:** [sajidkhan-devops.github.io](https://sajidkhan-devops.github.io/)
+- **Resume:** [View or download my resume (PDF)](assets/Sajid_Khan_Resume.pdf)
 - **GitHub:** [@sajidkhan-DevOps](https://github.com/sajidkhan-DevOps)
 - **Email:** [sajidkhan299720@gmail.com](mailto:sajidkhan299720@gmail.com)
-- **Agency:** VEXOR — add official website and social links when available
+- **Agency:** VEXOR — official website and social links can be added when available.
 
 <div align="center">
   <sub>Designed with care by Sajid Khan · Cloud, automation, and delivery with VEXOR</sub>
