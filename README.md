@@ -27,34 +27,42 @@ My hands-on work spans Terraform-managed infrastructure, Docker-based deployment
 - 📦 **Containers:** Docker, Docker Compose, Kubernetes
 - 🔐 **Security & Operations:** SSH hardening, RBAC, secrets handling, Nginx, SSL/TLS
 - 📍 **Location:** Lucknow, Uttar Pradesh, India
+---
 
+<h2 align="center">🤝 Let's Connect</h2>
 
-## 🤝 Let's Connect
-
-I'm interested in DevSecOps and cloud engineering opportunities, collaboration on real-world projects, and helping businesses improve how they build and deploy software.
+<p align="center">
+  <b>Have an idea, a project, or a cloud challenge?</b><br/>
+  Let's build something meaningful together.
+</p>
 
 <p align="center">
   <a href="https://sajidkhan-devops.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/sajidkhan-DevOps/sajidkhan-DevOps/blob/main/assets/Sajid_Khan_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-View%20PDF-DC2626?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF" />
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Explore-111827?style=for-the-badge&labelColor=111827" alt="Portfolio" />
   </a>
   <a href="https://github.com/sajidkhan-DevOps">
-    <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-My_Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:sajidkhan299720@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+  </a>
+  <a href="https://github.com/sajidkhan-DevOps/sajidkhan-DevOps/blob/main/assets/Sajid_Khan_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-View_PDF-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
 </p>
 
 <p align="center">
-  <b>Agency:</b> VEXOR — Digital Solutions & Cloud Engineering
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=550&lines=DevSecOps+%7C+Cloud+Engineering;Building+with+Azure+%26+Terraform;Powered+by+curiosity+and+automation" alt="Animated professional tagline" />
 </p>
 
 <p align="center">
-  <sub>Let's build something meaningful together.</sub>
+  <sub>Building secure infrastructure · Automating delivery · Deploying with confidence</sub>
 </p>
+
+<p align="center">
+  <b>VEXOR</b> · Digital Solutions & Cloud Engineering
+</p>
+
 
 ## 🏢 VEXOR — Digital Solutions & Cloud Engineering
 
